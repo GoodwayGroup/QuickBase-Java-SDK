@@ -20,7 +20,7 @@
   
     <scm>
         <url>https://github.com/CarteraCommerce/QuickBase-Java-SDK</url>
-        <connection>scm:git:git://github.com/CarteraCommerce/QuickBase-Java-SDK.git</connection>
+        <connection>scm:git:git@github.com:CarteraCommerce/QuickBase-Java-SDK.git</connection>
         <developerConnection>scm:git:git@github.com:CarteraCommerce/QuickBase-Java-SDK.git</developerConnection>
     </scm>
 
