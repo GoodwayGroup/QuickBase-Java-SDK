@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.intuit</groupId>
+  <artifactId>quickbase-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170119113309</lastUpdated>
+  </versioning>
+</metadata>
